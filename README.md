@@ -2,7 +2,7 @@
 こちらは、新しく設立されるPersonal Gym FITFORGE様にご提案した新規Webサイトです。今回はビジュアルデザインのみを担当し、ヒアリングからデザイン、コーディング(HTML5/CSS3、JavaScript)を用いて、制作いたしました。
 
 ## 制作概要
-**・タイトル**：Personal Gym FITFOGE様
+**・タイトル**：Personal Gym FITFORGE様
 <br>
 
 **・URL**：https://sakata-ponsuke.github.io/fitforge.com
