@@ -1,5 +1,5 @@
 # Personal Gym FITFOGE様のWebサイト制作
-こちらは、新しく設立されるPersonal Gym FITFOGE様にご提案した新規Webサイトです。今回はビジュアルデザインのみを担当し、ヒアリングからデザイン、コーディング(HTML5/CSS3、JavaScript)を用いて、私１人で制作いたしました。最大幅1200pxのパソコンサイズとレスポンシブサイズの640pxで構成し、
+こちらは、新しく設立されるPersonal Gym FITFOGE様にご提案した新規Webサイトです。今回はビジュアルデザインのみを担当し、ヒアリングからデザイン、コーディング(HTML5/CSS3、JavaScript)を用いて、制作いたしました。
 
 ## 制作概要
 **・タイトル**：Personal Gym FITFOGE様
