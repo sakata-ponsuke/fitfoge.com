@@ -54,3 +54,5 @@
 **・デザインコンセプト**：今日から未来の健康作り
 <br>
 
+**・制作物の全体図**<br>
+![FITFORGE様のWebサイト全体図](https://github.com/sakata-ponsuke/fitforge.com/issues/1#issue-2728625240)
